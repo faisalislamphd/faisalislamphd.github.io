@@ -1,3 +1,7 @@
+Hi. My name is Faisal Islam.
+
+I am an experienced professional in statistical data analysis and modelling, complemented by a Ph.D. in Applied Statistical Mechanics from MINES ParisTech, PSL University, France. Holds bachelor's and master's degrees from IIT Kanpur. A proven track record in applying advanced analytical skills to extract meaningful insights and guide informed decision-making. Passionate about translating complex data into actionable insights. Enthusiastic about contributing statistical expertise and research background to innovative projects and collaborative initiatives.
+
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
