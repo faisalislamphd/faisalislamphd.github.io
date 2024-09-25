@@ -1,5 +1,5 @@
 ---
-<br><br><br> <!-- This adds vertical space before the title -->
+<div class="top-space"></div>
 
 permalink: /
 title: "Welcome to Faisal Islam’s homepage"
