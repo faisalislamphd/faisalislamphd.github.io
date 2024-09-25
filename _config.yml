@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Faisal Islam"
+title                    : "Faisal Islam's Home"
 title_separator          : "-"
 name                     : &name "Faisal Islam"
 description              : &description "My description"
@@ -22,9 +22,9 @@ repository               : "faisalislamphd/faisalislamphd.github.io"
 author:
   # Biographic information
   avatar           : "images/Photo.JPG"
-  name             : "Your Sidebar Name"
+  name             : "Faisal Islam"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data Processing and Operations"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
