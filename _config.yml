@@ -21,7 +21,7 @@ repository               : "faisalislamphd/faisalislamphd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Photo.JPG"
+  avatar           : "images/bio-photo.jpg"
   name             : "Faisal Islam"
   pronouns         : # example: "she/her"  
   bio              : "Data Processing and Operations"
